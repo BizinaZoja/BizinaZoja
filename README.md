@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BizinaZoja
-- 👀 I’m interested in learning smth new as soon as I'm boooored with my maternity leave...
-- 🌱 I’m currently learning HTML and CSS and realy interested in JS.
+- 👀 I’m interested in learning smth new: languages, programming languages,crafts
+- 🌱 I’m currently learning HTML, CSS, JS
 - 📫 Please, feel free to e-mail me to zoya.maslennikova@gmail.com
 
 <!---
